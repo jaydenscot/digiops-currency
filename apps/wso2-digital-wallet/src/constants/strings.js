@@ -10,7 +10,7 @@ export const WSO2_WALLET = "WSO2 Wallet";
 export const CONNECTED = "Connected";
 export const NOT_CONNECTED = "Not Connected";
 
-// home page
+export const TOTAL_BALANCE = "Total Balance";
 export const TOTAL_BALANCE = "Total Balance";
 export const SEND = "Send";
 export const REQUEST = "Request";
